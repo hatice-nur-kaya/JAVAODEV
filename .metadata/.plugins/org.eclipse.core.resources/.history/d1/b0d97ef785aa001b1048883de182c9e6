@@ -1,0 +1,7 @@
+
+public class Day {
+	int id;
+    String Dayname;
+    int Date; 
+    String detail;
+}

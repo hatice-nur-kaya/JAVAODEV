@@ -1,0 +1,8 @@
+
+public class CategoryManager {
+	
+	 public void addToCart(Category Category) 
+	   {
+		   System.out.println("Bitirme iþlemi yapýldý : "+ Category.name);
+	   }
+}

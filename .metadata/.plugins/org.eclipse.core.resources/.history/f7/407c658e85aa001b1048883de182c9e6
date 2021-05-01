@@ -1,0 +1,11 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Day Day1 = new Day(); // referans oluþturma
+		Day1.id=1;
+		Day1.Dayname = "Lenovo V14";
+		Day1.detail="16 GB Ram ";
+	}
+
+}

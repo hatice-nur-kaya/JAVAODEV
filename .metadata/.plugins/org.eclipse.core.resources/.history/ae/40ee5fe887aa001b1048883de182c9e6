@@ -1,0 +1,8 @@
+
+public class CategoryManager {
+	
+	 public void addToCart(Day Day) 
+	   {
+		   System.out.println("Bitirme iþlemi yapýldý : "+ Day.Dayname);
+	   }
+}
